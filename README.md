@@ -1,13 +1,11 @@
-# my_first_python_project#
+# Aiswarya Maddali - My Python Projects
+CSE Student | Aspiring Software Developer & Data Science Enthusiast
 
-Hi! I am Aiswarya Maddali.
-This is my first Python project for learning.
+## 🚀 Projects Built:
+1. chatbot.py - My first AI chatbot
+2. task_manager.py - Task Manager Software (Real software with menu system)
 
-## About Me
-- B.Tech CSE - 2027
-- Learning Python, AI, Data Science
+## 🛠️ Skills:
+Python | GitHub | Software Development | Problem Solving
 
-## My First Code
-Simple Python Chatbot project coming soon!
-
-Connect with me: github.com/maddaliaiswarya
+Connect with me on LinkedIn!
