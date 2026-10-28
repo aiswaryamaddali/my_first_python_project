@@ -4,7 +4,7 @@ Hi! I am Aiswarya Maddali.
 This is my first Python project for learning.
 
 ## About Me
-- B.Tech AI & DS - 2027
+- B.Tech CSE - 2027
 - Learning Python, AI, Data Science
 
 ## My First Code
